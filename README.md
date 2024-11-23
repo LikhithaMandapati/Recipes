@@ -7,7 +7,7 @@
 1. **Clone the Repository**  
    - Run the following command in your terminal:  
      ```bash
-     git clone <repository-url>
+     git clone <https://github.com/LikhithaMandapati/Recipes.git>
      ```
 
 2. **Open the Project**  
